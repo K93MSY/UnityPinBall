@@ -6,8 +6,8 @@ public class Ball : MonoBehaviour
 {
     private Rigidbody2D myRigidBody;
 
-    public float speedX = 10;
-    public float speedY = 10; 
+    public float speedX = 240;
+    public float speedY = 240;
 
     // Start is called before the first frame update
     void Start()
